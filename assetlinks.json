@@ -1,1 +1,6 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "au.com.therightteam.app.android",
+               "sha256_cert_fingerprints": ["FE:7C:6B:EA:BD:78:6A:18:29:BF:CF:A3:02:7F:79:DB:77:09:96:CA:DB:B6:53:52:90:E4:9A:92:F9:C7:9B:FC"] }
+}]
